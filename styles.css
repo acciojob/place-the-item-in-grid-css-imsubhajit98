@@ -5,11 +5,6 @@
     display: grid;
     grid-template-rows: repeat(2,200px);
     grid-template-columns: repeat(2,200px) ;
-    row-gap: 10px;
-    column-gap: 10px;
-}
-
-.grid-box{
-    background-color: red;
     
 }
+
